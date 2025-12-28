@@ -1,0 +1,13 @@
+.main {
+    background-color: black;
+    min-height: 100vh;
+    color: white;
+    overflow-x: hidden;
+}
+
+.footer {
+    padding: 2rem 0;
+    text-align: center;
+    color: #333;
+    font-size: 0.875rem;
+}

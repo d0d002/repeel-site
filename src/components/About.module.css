@@ -1,0 +1,28 @@
+.section {
+    padding: 8rem 2rem;
+    background: #0a0a0a;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 800px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    background: linear-gradient(180deg, #fff, #888);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.text {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: #cccccc;
+    text-align: justify;
+}
